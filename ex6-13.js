@@ -1,1 +1,2 @@
-function imagechange1(){document.getElementById('logo2').src='./image/城西ロゴ2.pnp';}
+function imagechange1(){document.getElementById('logo2').src='./image/城西ロゴ2.png';}
+function imagechange2(){document.getElementById('logo2').src='./image/城西ロゴ1.jpg';}
