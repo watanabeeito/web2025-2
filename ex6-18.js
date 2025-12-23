@@ -1,4 +1,5 @@
-function imagechange5(){const img=document.getElementById('face')}
-setTimeout(function(){img.src="huri.22.jpg";},3000);}
+function imagechange5(){var img=document.getElementById('face')
+img.src="./image/huri.22.jpg";
+setTimeout(function(){img.src="./image/huri.11.jpg";},3000);}
 
 
