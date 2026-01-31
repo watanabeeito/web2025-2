@@ -1,4 +1,9 @@
-function nazo77(){if(document.getElementById('answer77').value='夢')
-{alert('あたり！');
-}else{alert('はずれ！');}}
-                  
+function nazo77() {
+  let ans = document.getElementById('answer77').value.trim(); 
+
+  if (ans === '夢') {   
+    alert('あたり！');
+  } else {
+    alert('はずれ！');
+  }
+}
